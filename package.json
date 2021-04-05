@@ -1,0 +1,12 @@
+{
+  "name": "hangman_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EmmanuelRatier/hangman_game.git",
+  "author": "EmmanuelRatier <ratier.e09@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
